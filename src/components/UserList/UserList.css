@@ -1,0 +1,10 @@
+.user-list {
+    list-style-type: none;
+    display: inline-flex;
+    align-items:flex-start;
+    flex-direction: column;
+    padding: 0;
+}
+.user-list li{
+    margin-bottom: 10px;
+}

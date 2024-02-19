@@ -1,0 +1,18 @@
+form{
+    width: 700px;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #ccc;
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
+}
+input{
+    height: 35px;
+    width: 100%;
+    margin-bottom: 20px;
+}
+button{
+    width: 25%;
+    padding: 10px 20px;
+}
